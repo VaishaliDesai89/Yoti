@@ -1,0 +1,71 @@
+package com.yoti.test.yoti_automated_testing;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class RunTest  
+{
+	protected WebDriver driver;
+	RetailWebsite rw = new RetailWebsite();
+	
+	@BeforeClass
+	public void setUp(){
+		initialisation();
+		
+	}
+	
+	@Test
+	public void verifyLoginWithValidCredentials(){
+		
+	}
+	
+	@AfterClass
+	public void endTest()
+	{
+		driver.close();
+	}
+	
+	protected void initialisation()
+	{
+		DesiredCapabilities capabilities = new DesiredCapabilities();
+		String url = "http://automationpractice.com/";
+		capabilities.setCapability("browserName", browser);
+		capabilities.setCapability("screenResolution", screenResolution);
+		
+		if(browser.toString().equals("Chrome"))
+		{
+			ChromeDriverManager.getInstance().setup();
+			driver = new ChromeDriver();
+
+		}
+		else if(browser.toString().equals("Firefox"))
+		{
+			
+			System.setProperty("webdriver.gecko.driver", "Drivers\\FireFox Driver\\wires.exe");
+			capabilities = DesiredCapabilities.firefox();
+			capabilities.setCapability("marionette", true);
+			pathBinary = new File("C:\\Program Files\\Nightly\\firefox.exe");
+			firefoxBinary = new FirefoxBinary(pathBinary);
+			profilesIni = new ProfilesIni();
+			firefoxProfile = new FirefoxProfile();
+			firefoxProfile = profilesIni.getProfile("QA");
+			firefoxProfile.setAcceptUntrustedCertificates(true);
+			firefoxProfile.setAssumeUntrustedCertificateIssuer(false);
+			capabilities.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
+			driver = new FirefoxDriver(firefoxBinary,firefoxProfile,capabilities);
+		}
+		else if(browser.toString().equals("internet explorer"))
+		{
+			
+			capabilities = DesiredCapabilities.internetExplorer();
+			capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
+			capabilities.setCapability("version", version);
+			System.setProperty("webdriver.ie.driver", "Drivers\\InternetExplorer Driver\\IEDriverServer_x64_2.48.0\\IEDriverServer.exe");
+			driver = new InternetExplorerDriver(capabilities);
+		}
+	}
+	
+}
+

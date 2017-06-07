@@ -1,0 +1,142 @@
+package com.yoti.test.yoti_automated_testing;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.TimeoutException;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class TestHelper {
+	
+	private static final long DEFAULT_ELEMENT_TIMEOUT = 180L;
+	private static final long DEFAULT_WEB_PAGE_LOAD = 180L;
+	private static Logger LOG = LogManager.getLogger(TestHelper.class);
+	private final WebDriver driver;
+
+	public TestHelper(final WebDriver driver) {
+		this.driver = driver;
+	}
+	
+	public void waitImplicitly()
+	{
+			driver.manage().timeouts().implicitlyWait(DEFAULT_WEB_PAGE_LOAD, TimeUnit.SECONDS);	
+	}
+	
+	public void waitForPageLoad()
+	{
+		try
+		{
+			driver.manage().timeouts().pageLoadTimeout(DEFAULT_WEB_PAGE_LOAD, TimeUnit.SECONDS);
+		}
+		catch(TimeoutException te)
+		{
+			driver.navigate().refresh();
+			driver.manage().timeouts().pageLoadTimeout(DEFAULT_WEB_PAGE_LOAD, TimeUnit.SECONDS);
+		}
+	}
+	public void getPage(String urlString)   
+	{
+		driver.get(urlString);
+		waitForPageLoad();
+	}
+	
+		
+	public WebElement getElementAfterAppearsById(final String elementId, final long timeoutInseconds )
+	{
+		waitForPageLoad();
+		new WebDriverWait(driver, timeoutInseconds).until(ExpectedConditions.elementToBeClickable(By.id(elementId)));
+		return driver.findElement(By.id(elementId));
+	}
+	
+	public WebElement getElementAfterAppearsByXPath(final String elementByXpath, final long timeoutInseconds )
+	{
+		waitForPageLoad();
+		new WebDriverWait(driver, timeoutInseconds).until(ExpectedConditions.elementToBeClickable(By.xpath(elementByXpath)));
+		return driver.findElement(By.xpath(elementByXpath));
+	}
+	
+	public WebElement getElementAfterAppearsByLinkText(final String elementByLinkText, final long timeoutInseconds )
+	{
+		waitForPageLoad();
+		new WebDriverWait(driver, timeoutInseconds).until(ExpectedConditions.elementToBeClickable(By.linkText(elementByLinkText)));
+		return driver.findElement(By.linkText(elementByLinkText));
+	}
+	
+	public WebElement getElementAfterAppearsByName(final String elementByName, final long timeoutInseconds )
+	{
+		waitForPageLoad();
+		new WebDriverWait(driver, timeoutInseconds).until(ExpectedConditions.elementToBeClickable(By.name(elementByName)));
+		return driver.findElement(By.name(elementByName));
+	}
+	
+	public WebElement getElementAfterAppearsByClassName(final String elementByClassName, final long timeoutInseconds )
+	{
+		waitForPageLoad();
+		new WebDriverWait(driver, timeoutInseconds).until(ExpectedConditions.elementToBeClickable(By.className(elementByClassName)));
+		return driver.findElement(By.className(elementByClassName));
+	}
+	
+	public WebElement getElementAfterAppearsById(final String elementId )
+	{
+		return this.getElementAfterAppearsById(elementId, DEFAULT_ELEMENT_TIMEOUT);
+	}
+	
+	public WebElement getElementAfterAppearsByXPath(final String elementByXpath)
+	{
+		return this.getElementAfterAppearsByXPath(elementByXpath, DEFAULT_ELEMENT_TIMEOUT);
+	}
+	
+	public WebElement getElementAfterAppearsByLinkText(final String elementByLinkText)
+	{
+		return this.getElementAfterAppearsByLinkText(elementByLinkText, DEFAULT_ELEMENT_TIMEOUT);
+	}
+	
+	public WebElement getElementAfterAppearsByName(final String elementByName )
+	{
+		return this.getElementAfterAppearsByName(elementByName, DEFAULT_ELEMENT_TIMEOUT);
+	}
+	
+	public WebElement getElementAfterAppearsByClassName(final String elementByClassName )
+	{
+		return this.getElementAfterAppearsByClassName(elementByClassName, DEFAULT_ELEMENT_TIMEOUT);
+	}
+	public void checkAttributeByXPath(String attribute, String StringXPath, String expectedContains)
+	{
+		if(!(getElementAfterAppearsByXPath(StringXPath).getAttribute("href").toString().contains(expectedContains)))
+		{
+			LOG.error(attribute+" is redirecting to the wrong page - "+  getElementAfterAppearsByXPath(StringXPath).getAttribute("href").toString());
+		}
+	}
+	public void checkAttributeById(String attribute, String StringId, String expectedContains)
+	{
+		if(!(getElementAfterAppearsById(StringId).getAttribute("href").toString().contains(expectedContains)))
+		{
+			LOG.error(attribute+" is redirecting to the wrong page - "+  getElementAfterAppearsById(StringId).getAttribute("href").toString());
+		}
+	}
+	public void checkAttributeByLinkText(String attribute, String StringLinkText, String expectedContains)
+	{
+		if(!(getElementAfterAppearsByLinkText(StringLinkText).getAttribute("href").toString().contains(expectedContains)))
+		{
+			LOG.error(attribute+" is redirecting to the wrong page - "+  getElementAfterAppearsByLinkText(StringLinkText).getAttribute("href").toString());
+		}
+	}
+	public void checkAttributeByName(String attribute, String StringByName, String expectedContains)
+	{
+		if(!(getElementAfterAppearsByName(StringByName).getAttribute("href").toString().contains(expectedContains)))
+		{
+			LOG.error(attribute+" is redirecting to the wrong page - "+  getElementAfterAppearsByName(StringByName).getAttribute("href").toString());
+		}
+	}
+	public void checkAttributeByClassName(String attribute, String StringByClassName, String expectedContains)
+	{
+		if(!(getElementAfterAppearsByClassName(StringByClassName).getAttribute("href").toString().contains(expectedContains)))
+		{
+			LOG.error(attribute+" is redirecting to the wrong page - "+  getElementAfterAppearsByClassName(StringByClassName).getAttribute("href").toString());
+		}
+	}
+
+}

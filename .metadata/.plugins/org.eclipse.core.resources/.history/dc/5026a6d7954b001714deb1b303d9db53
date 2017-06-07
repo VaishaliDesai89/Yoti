@@ -1,0 +1,50 @@
+package com.yoti.test.yoti_automated_testing;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class RunTest  
+{
+	protected WebDriver driver;
+	RetailWebsite rw = new RetailWebsite();
+	
+	@BeforeClass
+	public void setUp(){
+		initialisation();
+		
+	}
+	
+	@Test
+	public void verifyLoginWithValidCredentials(){
+		
+	}
+	
+	@AfterClass
+	public void endTest()
+	{
+		driver.close();
+	}
+	
+	protected void initialisation()
+	{
+		String url = "http://automationpractice.com/";
+		
+		DesiredCapabilities capabilities = new DesiredCapabilities();
+		capabilities.setCapability("browserName", browser);
+		capabilities.setCapability("screenResolution", screenResolution);
+		
+		if(browser.toString().equals("Chrome"))
+		{
+			ChromeDriverManager.getInstance().setup();
+			driver = new ChromeDriver();
+
+		}
+		
+		
+	}
+	
+}
+

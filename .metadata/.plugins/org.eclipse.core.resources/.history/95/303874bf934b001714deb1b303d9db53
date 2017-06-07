@@ -1,0 +1,29 @@
+package com.yoti.test.yoti_automated_testing;
+
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class RunTest {
+	
+	@BeforeClass
+	public void setUp(){
+		init();
+	}
+	
+	@Test
+	public void verifyLoginWithValidCredentials(){
+		homePage = new HomePage(driver);
+		homePage.loginToApp("test@test.luckyvoice.com", "Abcd1234");
+		
+		Assert.assertTrue(homePage.getValidLoginText().contains("Playlists"));	
+	}
+	
+	@AfterClass
+	public void endTest(){
+		driver.close();
+	}
+}
+
+
+}

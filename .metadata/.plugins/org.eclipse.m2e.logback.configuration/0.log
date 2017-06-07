@@ -1,0 +1,867 @@
+2017-06-07 15:46:22,172 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2017-06-07 15:48:32,658 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\pom.xml
+2017-06-07 15:48:36,029 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yoti.test:yoti-automated-testing:0.0.1-SNAPSHOT @ C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\pom.xml.
+2017-06-07 15:48:36,968 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yoti-automated-testing/src/main/java
+2017-06-07 15:48:36,981 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yoti-automated-testing/src/test/java
+2017-06-07 15:48:38,371 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2017-06-07 15:48:39,709 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:48:39,710 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 15:48:39,717 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:48:39,718 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 15:51:15,085 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yoti.test:yoti-automated-testing:0.0.1-SNAPSHOT @ C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\pom.xml.
+2017-06-07 15:51:15,585 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 15:51:15,607 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 15:51:15,621 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 15:51:19,875 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:51:19,876 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 15:51:19,881 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:51:19,881 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 15:51:22,332 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 15:51:22,348 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 15:51:22,361 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 15:51:25,036 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:51:25,037 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 15:51:25,041 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:51:25,041 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 15:51:56,559 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:51:56,560 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 15:51:56,562 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:51:56,563 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 15:53:55,348 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:53:55,350 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 15:53:55,353 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:53:55,354 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 15:54:47,618 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:54:47,618 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 15:54:47,620 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:54:47,621 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 15:56:49,357 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:56:49,358 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 15:56:49,361 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:56:49,362 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 15:58:44,032 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:58:44,032 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 15:58:44,036 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 15:58:44,037 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:09:06,219 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:09:06,221 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:09:06,228 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:09:06,229 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:09:32,220 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:09:32,221 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:09:32,223 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:09:32,224 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:11:44,729 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:11:44,730 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:11:44,734 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:11:44,735 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:12:40,515 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:12:40,516 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:12:40,520 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:12:40,521 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:16:40,801 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:16:40,802 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:16:40,805 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:16:40,806 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:17:01,169 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:17:01,170 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:17:01,173 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:17:01,174 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:17:28,640 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:17:28,641 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:17:28,645 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:17:28,646 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:17:41,508 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:17:41,509 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:17:41,511 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:17:41,512 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:17:56,324 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:17:56,325 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:17:56,330 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:17:56,331 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:18:41,584 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:18:41,584 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:18:41,586 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:18:41,587 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:19:05,869 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:19:05,870 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:19:05,872 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:19:05,873 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:23:18,291 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:23:18,291 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:23:18,291 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:23:18,292 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:24:48,195 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:24:48,195 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:24:48,196 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:24:48,196 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:25:48,945 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:25:48,945 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:25:48,946 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:25:48,946 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:27:40,034 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:27:40,034 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:27:40,035 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:27:40,035 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:29:30,955 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:29:30,956 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:29:30,956 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:29:30,957 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:31:54,906 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:31:54,909 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:31:54,910 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:31:54,911 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:32:04,900 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:32:04,901 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:32:04,902 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:32:04,902 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:33:37,715 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:33:37,716 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:33:37,717 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:33:37,718 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:35:00,942 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:35:00,943 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:35:00,943 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:35:00,943 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:35:09,341 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:35:09,341 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:35:09,342 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:35:09,342 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:35:20,705 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:35:20,705 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:35:20,706 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:35:20,707 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:35:25,414 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:35:25,414 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:35:25,415 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:35:25,415 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:36:18,137 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:36:18,137 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:36:18,138 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:36:18,138 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:36:22,666 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:36:22,666 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:36:22,667 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:36:22,667 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:37:04,313 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:37:04,314 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:37:04,314 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:37:04,315 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:37:47,293 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:37:47,293 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:37:47,294 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:37:47,294 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:38:24,096 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:38:24,096 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:38:24,097 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:38:24,097 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:38:52,915 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:38:52,916 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:38:52,917 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:38:52,917 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:39:47,250 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:39:47,250 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:39:47,251 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:39:47,252 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:40:26,367 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:40:26,367 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:40:26,368 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:40:26,368 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:40:34,107 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:40:34,107 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:40:34,107 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:40:34,108 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:40:54,391 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:40:54,392 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:40:54,393 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:40:54,393 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:40:58,798 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:40:58,798 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:40:58,799 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:40:58,799 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:41:01,975 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:41:01,976 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:41:01,977 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:41:01,977 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:41:10,255 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:41:10,255 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:41:10,256 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:41:10,256 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:41:43,321 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:41:43,321 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:41:43,322 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:41:43,322 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:42:06,334 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:42:06,335 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:42:06,335 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:42:06,335 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:44:09,631 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:44:09,632 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:44:09,634 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:44:09,635 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:44:20,816 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:44:20,816 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:44:20,817 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:44:20,817 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:45:24,990 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:45:24,990 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:45:24,991 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:45:24,991 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:45:53,565 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:45:53,565 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:45:53,566 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:45:53,566 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:46:06,693 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:06,693 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:46:06,694 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:06,694 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:46:22,216 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:22,216 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:46:22,216 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:22,217 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:46:30,067 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:30,067 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:46:30,068 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:30,068 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:46:37,611 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:37,611 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:46:37,613 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:37,613 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:46:43,470 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:43,471 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:46:43,471 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:46:43,472 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:48:21,292 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:48:21,292 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:48:21,293 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:48:21,294 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:48:40,593 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:48:40,593 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:48:40,594 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:48:40,594 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:48:46,041 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:48:46,041 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:48:46,042 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:48:46,042 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:48:56,794 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:48:56,794 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:48:56,795 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:48:56,795 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:49:10,915 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:49:10,916 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:49:10,916 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:49:10,916 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:49:26,969 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:49:26,969 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:49:26,970 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:49:26,970 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:50:29,787 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:50:29,787 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:50:29,788 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:50:29,788 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:50:49,767 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:50:49,767 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:50:49,768 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:50:49,768 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:51:03,622 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:51:03,623 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:51:03,623 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:51:03,623 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:51:45,350 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:51:45,350 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:51:45,351 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:51:45,351 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:52:34,665 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:52:34,666 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:52:34,666 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:52:34,667 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:52:45,592 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:52:45,592 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:52:45,593 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:52:45,593 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:54:35,787 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:54:35,787 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:54:35,787 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:54:35,787 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:54:58,945 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:54:58,945 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:54:58,946 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:54:58,946 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:55:02,412 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:55:02,412 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:55:02,413 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:55:02,413 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:55:07,240 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:55:07,240 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:55:07,241 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:55:07,241 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:55:11,738 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:55:11,738 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:55:11,739 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:55:11,739 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:58:10,506 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:58:10,507 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:58:10,508 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:58:10,508 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:59:02,426 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:59:02,426 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:59:02,426 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:59:02,426 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 16:59:19,225 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:59:19,226 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 16:59:19,226 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 16:59:19,226 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:01:54,887 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:01:54,887 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:01:54,888 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:01:54,888 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:10:55,399 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:10:55,399 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:10:55,400 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:10:55,400 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:11:36,324 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:11:36,324 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:11:36,325 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:11:36,326 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:18:12,106 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:18:12,106 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:18:12,107 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:18:12,107 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:18:40,193 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:18:40,193 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:18:40,193 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:18:40,194 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:18:45,706 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:18:45,707 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:18:45,707 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:18:45,708 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:22:57,009 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:22:57,009 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:22:57,010 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:22:57,010 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:23:26,603 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:23:26,603 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:23:26,604 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:23:26,604 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:23:35,095 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:23:35,095 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:23:35,096 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:23:35,096 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:25:44,683 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:25:44,683 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:25:44,684 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:25:44,684 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:27:05,825 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:27:05,825 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:27:05,826 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:27:05,826 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:28:27,715 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:28:27,715 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:28:27,716 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:28:27,716 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:31:33,971 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:31:33,971 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:31:33,972 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:31:33,972 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:32:30,608 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:32:30,608 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:32:30,609 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:32:30,609 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:34:42,712 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:34:42,713 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:34:42,713 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:34:42,713 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:36:28,264 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:36:28,265 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:36:28,265 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:36:28,265 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:38:26,253 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:38:26,253 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:38:26,253 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:38:26,253 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:49:23,658 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:49:23,658 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:49:23,659 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:49:23,660 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:55:17,054 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:55:17,054 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:55:17,054 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:55:17,055 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:56:35,738 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:56:35,738 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:56:35,739 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:56:35,739 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 17:57:33,290 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:57:33,291 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 17:57:33,291 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 17:57:33,292 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:05:12,534 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:05:12,534 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:05:12,535 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:05:12,535 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:09:27,299 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:09:27,300 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:09:27,300 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:09:27,300 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:09:36,785 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:09:36,785 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:09:36,786 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:09:36,786 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:11:22,473 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:11:22,474 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:11:22,474 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:11:22,474 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:15:50,085 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:15:50,085 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:15:50,086 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:15:50,086 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:22:19,316 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:22:19,316 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:22:19,317 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:22:19,317 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:24:58,702 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:24:58,703 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:24:58,703 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:24:58,703 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:25:48,787 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:25:48,787 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:25:48,788 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:25:48,789 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:27:18,915 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:27:18,915 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:27:18,916 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:27:18,916 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:27:47,813 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:27:47,813 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:27:47,814 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:27:47,814 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:45:59,726 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:45:59,726 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:45:59,727 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:45:59,727 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:49:12,276 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:49:12,276 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:49:12,276 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:49:12,277 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:53:42,413 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:53:42,413 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:53:42,414 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:53:42,415 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:53:58,963 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:53:58,964 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:53:58,964 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:53:58,964 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:56:12,636 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:56:12,637 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:56:12,637 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:56:12,637 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 18:56:18,217 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:56:18,217 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 18:56:18,218 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 18:56:18,218 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:02:29,361 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:02:29,361 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:02:29,362 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:02:29,362 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:06:17,803 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:06:17,803 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:06:17,804 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:06:17,805 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:09:55,383 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:09:55,383 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:09:55,383 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:09:55,384 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:10:29,573 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:10:29,573 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:10:29,574 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:10:29,574 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:13:22,714 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:13:22,715 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:13:22,715 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:13:22,715 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:14:23,111 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:14:23,111 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:14:23,111 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:14:23,111 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:15:44,332 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:15:44,332 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:15:44,332 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:15:44,332 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:17:28,803 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:17:28,803 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:17:28,804 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:17:28,804 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:21:34,825 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:21:34,825 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:21:34,825 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:21:34,826 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:23:11,622 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:23:11,623 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:23:11,624 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:23:11,624 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:25:47,713 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:25:47,713 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:25:47,714 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:25:47,714 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:27:14,991 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:27:14,991 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:27:14,992 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:27:14,992 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:29:02,705 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:29:02,705 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:29:02,706 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:29:02,706 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:33:38,490 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:33:38,490 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:33:38,491 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:33:38,491 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:33:56,434 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:33:56,434 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:33:56,435 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:33:56,435 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:37:54,143 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:37:54,144 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:37:54,144 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:37:54,144 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:37:59,606 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:37:59,606 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:37:59,607 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:37:59,607 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:40:46,847 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:40:46,848 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:40:46,848 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:40:46,848 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:40:55,629 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:40:55,630 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:40:55,630 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:40:55,630 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:53:57,007 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:53:57,007 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:53:57,008 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:53:57,008 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:54:07,870 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:54:07,870 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:54:07,871 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:54:07,871 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:54:55,138 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:54:55,138 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:54:55,138 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:54:55,139 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 19:55:26,756 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:55:26,757 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 19:55:26,757 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 19:55:26,758 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:27:08,571 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:27:08,572 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:27:08,572 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:27:08,572 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:31:31,797 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:31:31,797 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:31:31,798 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:31:31,798 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:34:29,667 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:34:29,667 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:34:29,668 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:34:29,668 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:35:04,550 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:35:04,551 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:35:04,551 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:35:04,552 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:37:15,945 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:37:15,945 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:37:15,945 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:37:15,946 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:37:33,601 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:37:33,602 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:37:33,602 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:37:33,602 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:39:56,622 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:39:56,622 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:39:56,623 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:39:56,623 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:42:04,059 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:42:04,060 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:42:04,061 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:42:04,061 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:42:09,628 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:42:09,629 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:42:09,629 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:42:09,629 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:44:59,577 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:44:59,577 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:44:59,578 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:44:59,578 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:45:06,433 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:45:06,433 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:45:06,433 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:45:06,434 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:46:56,656 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:46:56,657 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:46:56,657 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:46:56,658 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:47:04,611 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:47:04,612 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:47:04,613 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:47:04,613 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:47:26,264 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:47:26,264 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:47:26,264 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:47:26,264 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:47:31,962 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:47:31,962 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:47:31,962 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:47:31,963 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:58:21,425 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:58:21,425 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:58:21,427 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:58:21,427 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 20:58:28,784 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:58:28,784 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 20:58:28,785 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 20:58:28,785 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:00:04,122 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:00:04,122 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:00:04,122 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:00:04,122 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:01:35,968 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:01:35,968 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:01:35,969 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:01:35,969 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:03:41,150 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:03:41,151 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:03:41,151 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:03:41,152 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:04:50,625 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:04:50,625 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:04:50,625 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:04:50,625 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:12:16,306 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:12:16,306 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:12:16,307 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:12:16,307 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:12:37,011 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:12:37,011 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:12:37,011 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:12:37,012 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:17:04,228 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:17:04,228 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:17:04,229 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:17:04,229 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:18:28,368 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:18:28,368 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:18:28,369 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:18:28,369 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:21:15,891 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:21:15,891 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:21:15,891 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:21:15,891 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:21:19,452 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:21:19,452 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:21:19,453 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:21:19,453 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:21:42,492 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:21:42,493 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:21:42,493 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:21:42,493 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:21:49,873 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:21:49,874 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:21:49,874 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:21:49,874 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:22:06,017 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:22:06,017 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:22:06,018 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:22:06,018 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:22:13,349 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:22:13,349 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:22:13,350 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:22:13,350 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:23:00,937 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:23:00,937 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:23:00,938 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:23:00,938 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:27:16,625 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:27:16,625 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:27:16,626 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:27:16,626 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:27:25,384 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:27:25,384 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:27:25,385 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:27:25,385 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:28:44,433 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:28:44,433 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:28:44,434 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:28:44,434 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:28:47,830 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:28:47,830 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:28:47,831 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:28:47,831 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:29:42,105 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:29:42,106 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:29:42,106 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:29:42,106 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:30:27,827 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:30:27,828 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:30:27,830 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:30:27,831 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:31:06,902 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:31:06,902 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:31:06,902 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:31:06,902 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:31:24,157 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:31:24,157 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:31:24,157 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:31:24,157 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:31:36,372 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:31:36,372 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:31:36,373 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:31:36,373 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:31:44,415 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:31:44,416 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:31:44,416 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:31:44,416 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:32:24,852 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:32:24,853 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:32:24,853 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:32:24,853 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:32:57,371 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:32:57,371 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:32:57,371 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:32:57,371 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:33:01,309 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:33:01,309 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:33:01,309 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:33:01,310 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:33:26,321 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:33:26,321 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:33:26,321 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:33:26,322 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:34:07,137 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:34:07,138 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:34:07,138 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:34:07,138 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:34:11,559 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:34:11,559 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:34:11,560 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:34:11,560 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:35:16,256 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:35:16,256 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:35:16,256 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:35:16,256 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:36:02,084 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:36:02,084 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:36:02,085 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:36:02,085 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:36:24,334 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:36:24,335 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:36:24,335 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:36:24,335 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:36:43,089 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:36:43,089 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:36:43,090 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:36:43,090 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:36:55,866 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:36:55,866 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:36:55,866 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:36:55,866 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:37:02,492 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:37:02,493 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:37:02,493 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:37:02,493 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:37:18,120 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:37:18,120 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:37:18,121 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:37:18,121 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:38:01,899 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:38:01,899 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:38:01,900 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:38:01,900 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:38:14,586 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:38:14,587 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:38:14,587 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:38:14,587 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:38:57,411 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:38:57,411 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:38:57,413 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:38:57,413 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:40:43,843 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:40:43,843 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:40:43,843 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:40:43,843 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:41:25,398 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:41:25,398 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:41:25,399 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:41:25,399 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:42:00,732 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:42:00,732 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:42:00,733 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:42:00,733 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:42:14,782 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:42:14,783 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:42:14,783 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:42:14,783 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:42:21,737 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:42:21,737 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:42:21,737 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:42:21,737 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:43:16,552 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:43:16,552 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:43:16,553 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:43:16,553 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:44:01,794 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:44:01,794 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:44:01,794 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:44:01,794 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:44:26,749 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:44:26,749 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:44:26,750 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:44:26,750 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:46:18,281 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:46:18,281 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:46:18,281 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:46:18,282 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:46:42,394 [Worker-155] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.0.1/selenium-support-3.0.1-sources.jar
+2017-06-07 21:46:42,543 [Worker-155] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.0.1/selenium-support-3.0.1-sources.jar
+2017-06-07 21:46:42,629 [Worker-155] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-support:3.0.1
+2017-06-07 21:46:42,986 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:46:42,986 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:46:42,987 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:46:42,987 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:47:27,889 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:47:27,889 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:47:27,890 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:47:27,890 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:47:32,532 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:47:32,532 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:47:32,533 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:47:32,533 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:47:41,128 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:47:41,128 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:47:41,128 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:47:41,128 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:47:56,689 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:47:56,689 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:47:56,690 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:47:56,690 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:49:17,459 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:49:17,459 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:49:17,460 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:49:17,460 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:52:02,201 [Worker-182] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yoti.test:yoti-automated-testing:0.0.1-SNAPSHOT @ C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\pom.xml.
+2017-06-07 21:52:02,363 [Worker-182] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 21:52:02,369 [Worker-182] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 21:52:02,375 [Worker-182] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 21:52:03,720 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:52:03,721 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:52:03,722 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:52:03,722 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:52:05,010 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 21:52:05,014 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 21:52:05,020 [Worker-181] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-06-07 21:52:05,664 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:52:05,664 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:52:05,665 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:52:05,665 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources
+2017-06-07 21:59:19,105 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:59:19,106 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\main\resources
+2017-06-07 21:59:19,106 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 21:59:19,107 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VaishaliDesai.LV\Yoti\yoti-automated-testing\src\test\resources

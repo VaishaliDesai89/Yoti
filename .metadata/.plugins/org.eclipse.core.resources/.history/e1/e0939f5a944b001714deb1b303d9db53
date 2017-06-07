@@ -1,0 +1,15 @@
+package com.yoti.test.yoti_automated_testing;
+
+/**
+ * Hello world!
+ *
+ */
+public class RetailWebsite 
+{
+    public static void main( String[] args )
+    {
+        
+    }
+
+	
+}

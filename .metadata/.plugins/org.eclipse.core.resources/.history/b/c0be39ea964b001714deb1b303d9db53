@@ -1,0 +1,40 @@
+package com.yoti.test.yoti_automated_testing;
+
+import java.util.concurrent.TimeUnit;
+
+import org.apache.logging.log4j.LogManager;
+import org.openqa.selenium.TimeoutException;
+import org.openqa.selenium.WebDriver;
+import org.testng.log4testng.Logger;
+
+public class TestHelper {
+	
+	private static final long DEFAULT_ELEMENT_TIMEOUT = 180L;
+	private static final long DEFAULT_WEB_PAGE_LOAD = 180L;
+	private final WebDriver driver;
+	private final String browser;
+
+	public TestHelper(final WebDriver driver, final String browser) {
+		this.driver = driver;
+		this.browser = browser;
+	}
+	
+	public void waitImplicitly()
+	{
+			driver.manage().timeouts().implicitlyWait(DEFAULT_WEB_PAGE_LOAD, TimeUnit.SECONDS);	
+	}
+	
+	public void waitForPageLoad()
+	{
+		try
+		{
+			driver.manage().timeouts().pageLoadTimeout(DEFAULT_WEB_PAGE_LOAD, TimeUnit.SECONDS);
+		}
+		catch(TimeoutException te)
+		{
+			driver.navigate().refresh();
+			driver.manage().timeouts().pageLoadTimeout(DEFAULT_WEB_PAGE_LOAD, TimeUnit.SECONDS);
+		}
+	}
+
+}

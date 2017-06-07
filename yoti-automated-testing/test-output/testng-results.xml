@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43745" started-at="2017-06-07T20:49:24Z" finished-at="2017-06-07T20:50:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43745" started-at="2017-06-07T20:49:24Z" finished-at="2017-06-07T20:50:08Z">
+      <class name="com.yoti.test.yoti_automated_testing.RunTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.yoti.test.yoti_automated_testing.RunTest@7a79be86]" name="setUp" is-config="true" duration-ms="9816" started-at="2017-06-07T21:49:24Z" finished-at="2017-06-07T21:49:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="browseProducts()[pri:0, instance:com.yoti.test.yoti_automated_testing.RunTest@7a79be86]" name="browseProducts" duration-ms="4108" started-at="2017-06-07T21:49:34Z" finished-at="2017-06-07T21:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseProducts -->
+        <test-method status="PASS" signature="addToCart()[pri:2, instance:com.yoti.test.yoti_automated_testing.RunTest@7a79be86]" name="addToCart" duration-ms="2678" started-at="2017-06-07T21:49:38Z" finished-at="2017-06-07T21:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="proceedToCheckOut()[pri:3, instance:com.yoti.test.yoti_automated_testing.RunTest@7a79be86]" name="proceedToCheckOut" duration-ms="4668" started-at="2017-06-07T21:49:41Z" finished-at="2017-06-07T21:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedToCheckOut -->
+        <test-method status="PASS" signature="signUp()[pri:4, instance:com.yoti.test.yoti_automated_testing.RunTest@7a79be86]" name="signUp" duration-ms="5188" started-at="2017-06-07T21:49:45Z" finished-at="2017-06-07T21:49:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="confirmOrderByWireTransfer()[pri:5, instance:com.yoti.test.yoti_automated_testing.RunTest@7a79be86]" name="confirmOrderByWireTransfer" duration-ms="4903" started-at="2017-06-07T21:49:50Z" finished-at="2017-06-07T21:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmOrderByWireTransfer -->
+        <test-method status="PASS" signature="confirmOrderByCheque()[pri:6, instance:com.yoti.test.yoti_automated_testing.RunTest@7a79be86]" name="confirmOrderByCheque" duration-ms="12273" started-at="2017-06-07T21:49:55Z" finished-at="2017-06-07T21:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmOrderByCheque -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.yoti.test.yoti_automated_testing.RunTest@7a79be86]" name="closeDriver" is-config="true" duration-ms="94" started-at="2017-06-07T21:50:08Z" finished-at="2017-06-07T21:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.yoti.test.yoti_automated_testing.RunTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
